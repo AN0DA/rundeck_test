@@ -1,0 +1,13 @@
+Issue ID: MCT-1818
+
+Reporter: null
+Date: 2020-07-17T13:48:44+0300
+
+
+Summary: weekly presentation
+Escalation policy: 24x7 60min
+
+Description:
+  qwer
+  
+  
