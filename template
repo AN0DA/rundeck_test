@@ -1,13 +1,6 @@
-Issue ID: @1
-
-Reporter: @2
-Date: @3
-
-
-Summary: @4
-Escalation policy: @6
-
-Description:
-  @5
-  
-  
+module "@name@" {
+  source            = "../modules/nc_pd_service"
+  name              = "@name@"
+  escalation_policy = "onboarding"
+  description = "@runbook@"
+}
