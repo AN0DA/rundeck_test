@@ -1,0 +1,6 @@
+module "_name_" {
+  source            = "../modules/nc_pd_service"
+  name              = "_name_"
+  escalation_policy = "onboarding"
+  description = "_runbook_"
+}
